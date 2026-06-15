@@ -104,3 +104,5 @@ with st.expander("전체 지역 평균기온"):
         ),
         use_container_width=True
     )
+streamlit==1.45.1
+pandas
